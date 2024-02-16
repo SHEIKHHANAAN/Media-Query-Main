@@ -1,0 +1,40 @@
+@media screen and (max-width:1440px){
+    .container{
+        height: 100vh;
+        width: 100vw;
+        text-align: center;
+        background-color: rgb(20, 206, 45);
+    }
+}
+@media screen and (max-width:1240px){
+    .container{
+        height: 100vh;
+        width: 100vw;
+        text-align: center;
+        background-color: rgb(8, 191, 237);
+    }
+}
+@media screen and (max-width:1024px){
+    .container{
+        height: 100vh;
+        width: 100vw;
+        text-align: center;
+        background-color: rgb(185, 85, 14);
+    }
+}
+@media screen and (max-width:768px){
+    .container{
+        height: 100vh;
+        width: 100vw;
+        text-align: center;
+        background-color: rgb(10, 231, 143);
+    }
+}
+@media screen and (max-width:425px){
+    .container{
+        height: 100vh;
+        width: 100vw;
+        text-align: center;
+        background-color: rgb(203, 12, 72);
+    }
+}
